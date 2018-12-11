@@ -3,6 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: JayTheMarketer
+  role_name: dotfiles
   description: Dotfile installation for UNIX/Linux.
   company: "sparkDEMAND, LLC"
   license: "Apache 2.0"
