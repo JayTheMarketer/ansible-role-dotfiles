@@ -1,0 +1,27 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: JayTheMarketer
+  description: Dotfile installation for UNIX/Linux.
+  company: "sparkDEMAND, LLC"
+  license: "Apache 2.0"
+  min_ansible_version: 2.2
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - all
+        - any
+    - name: GenericBSD
+      versions:
+        - all
+        - any
+    - name: GenericLinux
+      versions:
+        - all
+        - any
+  galaxy_tags:
+    - development
+    - system
+    - dotfiles
+    - configuration
